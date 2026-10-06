@@ -1,0 +1,21 @@
+{
+  "model_id": "Qwen/Qwen3.6-35B-A3B",
+  "dtype": "auto",
+  "tensor_parallel_size": 1,
+  "max_model_len": 32768,
+  "max_tokens": 16000,
+  "generation_max_tokens": 8000,
+  "max_num_seqs": 1,
+  "gpu_memory_utilization": 0.9,
+  "temperature": 0.0,
+  "enable_thinking": false,
+  "seed": 0,
+  "context_window": 25,
+  "relm_max_src_len": 62,
+  "relm_context": 10,
+  "relm_phonetic_filter": "off",
+  "repeats": 3,
+  "bootstrap_samples": 10000,
+  "bootstrap_seed": 131071,
+  "files": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+}
